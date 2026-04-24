@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-3.10+-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-Deployed-red)
+![AI](https://img.shields.io/badge/AI-Agent-orange)
+
 # 🎥 AI YouTube Video Analyzer
 
 Analyze any YouTube video using AI in seconds.
