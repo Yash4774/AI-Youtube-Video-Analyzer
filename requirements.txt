@@ -4,3 +4,4 @@ requests
 youtube-transcript-api
 groq
 agno
+openai
