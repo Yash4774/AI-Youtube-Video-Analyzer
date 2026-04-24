@@ -7,6 +7,8 @@ Analyze YouTube videos using AI.
 - Key insights
 - Content breakdown
 
+- Built an AI YouTube Video Analyzer using Agno agent framework and Groq LLMs, capable of analyzing video content, generating structured summaries, and extracting key insights with timestamped breakdowns(if available). The system leverages agent-based architecture for modular reasoning and efficient content understanding, deployed as a live web application using Streamlit.
+
 ## 🛠️ Setup
 
 ```bash
