@@ -6,7 +6,7 @@
 
 Analyze any YouTube video using AI in seconds.
 
-🔗 **Live App:** https://ai-youtube-video-analyzer-xxxx.streamlit.app
+🔗 **Live App:** https://ai-youtube-video-analyzer-twqcw5upgkprzxd2i7zkrb.streamlit.app/
 
 ---
 
